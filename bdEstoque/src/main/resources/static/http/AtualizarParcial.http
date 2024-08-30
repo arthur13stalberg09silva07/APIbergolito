@@ -1,0 +1,8 @@
+PATCH http://localhost:8080/api/produtos/atualizarParcial/15
+Content-Type: application/json
+
+{
+  "nome" : null,
+  "preco": -1,
+  "quantidadeEstoque": -1
+}
