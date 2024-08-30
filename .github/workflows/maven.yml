@@ -39,4 +39,4 @@ jobs:
         # The ID of the service. See https://api-docs.render.com/reference/create-deploy.
         serviceId: srv-cr8rl288fa8c73bnb1ug
         # Authenticate all requests to the Render API with an API key.  See https://api-docs.render.com/reference/authentication.
-        apiKey: 9m-80ilVk20
+        apiKey: rnd_YjvEu7v8DLghL4dW77wLu6bUyodW
